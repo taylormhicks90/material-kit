@@ -27,7 +27,7 @@ gulp.task('watch', function() {
 });
 
 gulp.task('open', function() {
-  gulp.src('index.html')
+  gulp.src('IOE-Pages/Template1/index.html')
     .pipe(open());
 });
 

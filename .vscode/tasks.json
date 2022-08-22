@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "open-app",
+			"problemMatcher": [],
+			"label": "npm: open-app",
+			"detail": "gulp open-app"
+		}
+	]
+}
